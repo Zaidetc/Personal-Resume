@@ -1,0 +1,42 @@
+body{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 1.8em;
+  
+}
+::-webkit-scrollbar{
+  display: none;
+}
+header{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 2em;
+}
+hr{
+  border-top: 3px double black;
+  border-bottom: 3px double black;
+
+  
+}
+b{
+  font-size: 1.2em;
+}
+
+.objective p{
+  font-size: 1em;
+  
+}
+table,tr,td,th{
+  font-size: 1em;
+  border: 2px solid black;
+  border-collapse: collapse;
+  padding: 10px;
+}
+ul li{
+  font-size: 1em;
+  padding: 5px;
+  margin-left: 25px;
+}
+.sign{
+  float: right;
+  margin-right: 50px;
+}
